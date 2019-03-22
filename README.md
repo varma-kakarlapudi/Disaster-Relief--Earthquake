@@ -19,4 +19,8 @@ Anova_project_techgig_logistic_regression     ----  python code using logistic_r
 
 
 
-In addition to this we have made a vedio and a ppt for this Disaster relief.
+In addition to this we have made a vedio and a ppt for this Disaster relief in the below google drive link .
+
+https://drive.google.com/drive/folders/1YIW0OXqSQZf4klUnM0w9X8HXpsWap0Q9?usp=sharing
+
+
