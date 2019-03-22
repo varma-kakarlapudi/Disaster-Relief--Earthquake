@@ -1,5 +1,5 @@
 # Disaster-Relief--Earthquake
-This was done on 21-03-2019 for a Hackathon  hosted by TECHGIG with colloboration
+This was done on 21-03-2019 for a Hackathon  hosted by TECHGIG in colloboration
 with NTT Data GDS Banglore ( https://www.nttdata.com/global/en/# )
 
 After attempting an written test (online) on techgig website based on Disasters and 
