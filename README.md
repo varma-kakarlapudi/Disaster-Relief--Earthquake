@@ -1,6 +1,7 @@
 # Disaster-Relief--Earthquake
-This was done on 21-03-2019 for a Hackathon  hosted by TECHGIG in colloboration
-with NTT Data GDS Banglore ( https://www.nttdata.com/global/en/# )
+
+This was done on 21-03-2019 for a Hackathon " Code4Good " hosted by #NTTData" 
+GDS Banglore ( https://www.nttdata.com/global/en/# ) in colloboration with Techgig .
 
 After attempting an written test (online) on techgig website based on Disasters and 
 Artificial Intelligence ,we were shortlisted and then we formed a team of 3 people (Varma kakarlapudi ,Sai kiran , hemanth kumar) . 
@@ -16,6 +17,8 @@ here
 Anova_database                                ----  is the  Trained Dataset 
 Anova_project_techgig_naive_bayes             ----  python code using Naive_bayes classifier
 Anova_project_techgig_logistic_regression     ----  python code using logistic_regression
+
+code_naive bayes                              ----  final code submitted with all changes
 
 
 
