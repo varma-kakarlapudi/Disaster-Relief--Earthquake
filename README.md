@@ -20,6 +20,13 @@ Anova_project_techgig_logistic_regression     ----  python code using logistic_r
 
 code_naive bayes                              ----  final code submitted with all changes
 
+I_D_E_A  :
+
+      Our main idea is to show the visualization of a nearby earthquakes of a given location (latitude n longitude ) from the given database of previous 100 years of Eathquake data only .
+      so that we will visually show the world map with the help of Basemap library from Matplotlib toolkit and threby finding the Magnitude(avg ) and finally suggesting the end user or customer like is it safe to construct buildings in that location or is it safe to invest in that location and additionally we suggest them to build wooden houses and in some areas to incerase the ductibility of the building by increasing the steel content and other materials , so that the building can withstand  minor earthquakes .
+      
+      An extension to this project can also be done like using seismographs or seismometers to detect and record earthquakes . so that human loss can be minimized .
+
 
 
 In addition to this we have made a vedio and a ppt for this Disaster relief in the below google drive link .
